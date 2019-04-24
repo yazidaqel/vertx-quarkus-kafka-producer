@@ -1,0 +1,1 @@
+**Quarkus & Eclipse Vert.x Kafka sample producer.**
